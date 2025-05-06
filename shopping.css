@@ -1,0 +1,25 @@
+h1{
+    font: italic;
+}
+body {
+    margin: 20px auto;
+  }
+  
+  input, button {
+    padding: 8px;
+    margin: 5px;
+  }
+  
+  
+  li {
+    padding: 10px;
+    margin: 4px;
+    border-radius: 4px;
+  }
+  
+  li.purchased {
+    text-decoration: line-through;
+    background-color: white;
+    color: gray;
+  }
+  
